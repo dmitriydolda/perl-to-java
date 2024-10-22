@@ -1,0 +1,8 @@
+Manifest-Version: 1.0
+Created-By: Maven WAR Plugin 3.4.0
+Build-Jdk-Spec: 21
+Class-Path: java-wrapper-1.1-SNAPSHOT.jar lib/netty-3.2.3.Final.jar lib/
+ slf4j-api-1.7.16.jar lib/perlapp-ejb-1.1-SNAPSHOT.jar lib/jackson-core-
+ 2.14.1.jar lib/jackson-databind-2.14.1.jar lib/mysql-connector-java-5.1
+ .18.jar
+

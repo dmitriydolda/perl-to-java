@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE application PUBLIC
+	"-//Sun Microsystems, Inc.//DTD J2EE Application 1.3//EN"
+	"http://java.sun.com/dtd/application_1_3.dtd">
+<application>
+  <display-name>java-ear</display-name>
+  <module>
+    <web>
+      <web-uri>java-war.war</web-uri>
+      <context-root>/java-war</context-root>
+    </web>
+  </module>
+  <module>
+    <java>java-wrapper-1.1-SNAPSHOT.jar</java>
+  </module>
+</application>
